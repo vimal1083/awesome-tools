@@ -10,7 +10,7 @@
     "clean": "rm -rf dist server.js",
     "lint": "tsc --noEmit",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -r https://github.com/[your-github-username]/[your-repository-name].git -d dist"
+    "deploy": "gh-pages -r https://github.com/vimal1083/awesome-tools.git -d dist"
   },
   "dependencies": {
     "@google/genai": "^2.4.0",

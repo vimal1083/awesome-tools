@@ -14,7 +14,7 @@ export default function Header() {
               <Youtube className="h-5.5 w-5.5 text-white" />
             </div>
             <div>
-              <span className="font-sans text-lg font-extrabold tracking-tight text-white uppercase">ThumbVisual</span>
+              <span className="font-sans text-lg font-extrabold tracking-tight text-white uppercase">Awesome Tools</span>
               <span className="ml-2 rounded bg-yt-red/10 px-1.5 py-0.5 text-3xs font-mono font-bold tracking-widest text-yt-red uppercase">
                 Pro
               </span>

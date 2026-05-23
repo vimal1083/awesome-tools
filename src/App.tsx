@@ -412,7 +412,7 @@ export default function App() {
           
           <div className="space-y-1">
             <p className="font-semibold text-slate-800 dark:text-slate-300">
-              YTT Previewer — YouTube Thumbnail Diagnostic Tool
+              Awesome Tools Pro — YouTube Thumbnail Diagnostic Tool
             </p>
             <p className="text-slate-400 font-medium">
               Unlimited processing, 100% Client-Side. Developed for creators, designers, and web developers. Including GA4 instrumentation.

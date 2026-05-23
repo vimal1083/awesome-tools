@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Thumbnail Previewer",
+  "description": "Unlimited, free, and file-size unlimited YouTube thumbnail preview tool with automatic 16:9 aspect ratio checking, adjustment, and pixel-perfect mockups of home, sidebar, playlist, and layout previews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
